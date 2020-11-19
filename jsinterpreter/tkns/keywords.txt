@@ -1,0 +1,12 @@
+boolean
+string
+false
+function
+if
+int
+return
+true
+var
+while
+print
+input
